@@ -1,0 +1,6 @@
+This Project is an end-to-end system architecture design/ information technology service's life cycle development stages,
+right from the business objective of creating an event management app for UWM students to register , view events taking place in the university which includes
+1. Process Description/Project Proposal
+2. Service Planning
+3. Service Oriented Analysis - UseCases, Object Model, Project estimate
+4.Service oriented design - Interface design, database design, service inventory, composition, specification, architecture.
